@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">nmedia</string>
+    <string name="reposts" />
+    <string name="likes" />
+    <string name="content" />
+    <string name="published" />
+    <string name="autor" />
+</resources>
