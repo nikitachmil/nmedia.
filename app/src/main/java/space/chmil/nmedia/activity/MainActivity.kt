@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         val shortener = Shortener
 
 
-
+//
         val viewModel: PostViewModel by viewModels()
         viewModel.data.observe(this) { post ->
             with(binding) {
