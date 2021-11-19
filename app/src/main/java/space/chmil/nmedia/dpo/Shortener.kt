@@ -1,4 +1,5 @@
 package space.chmil.nmedia.dpo
+import android.util.Log
 
 object Shortener {
 
@@ -41,7 +42,7 @@ object Shortener {
 
 
 
-        return "$total"
+        return total
     }
 
 }
